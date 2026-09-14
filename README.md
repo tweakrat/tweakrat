@@ -7,8 +7,8 @@ I'm passionate about learning new things and teaching what I learn. Other than s
 
 🔭 I’m currently working on: accessible flashcard app...
 
-📫 **How to reach me: **
-Email: angelicasuwito@gmail.com 
-LinkedIn: linkedin.com/in/angelica-suwito
+### 📫 How to reach me:
+- Email: angelicasuwito@gmail.com
+- LinkedIn: linkedin.com/in/angelica-suwito
 
 Always looking for exciting opportunities; let's get in touch!
